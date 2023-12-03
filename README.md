@@ -5,6 +5,7 @@ Olá, me chamo **Warlison Bezerra**, possuo 24 anos e sou um **Desenvolvedor Web
 
 O foco é mostrar todas as atividades e compartilhar o andamento do meu desenvolvimento baseado no curso.
 
+[Create a new Gist (github.com)](https://gist.github.com/)
 
 # Desafios
 Primeiro desafio foi apenas para situar as pessoas com a linguagem e com os tipos de dados. Sendo assim, aqui está a resposta:
